@@ -6,6 +6,8 @@ https://github.com/Bgsitopu/acti-track
 # Masuk ke folder aplikasi
 cd acti-track
 
+#use node 22
+
 # Install seluruh modul & library
 npm install
 
